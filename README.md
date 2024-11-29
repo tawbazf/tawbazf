@@ -14,11 +14,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
+PROFILE VISITORS
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
@@ -26,57 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tawbazf/count.svg?"  />
-</div>
 
 ###
 
