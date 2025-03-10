@@ -104,5 +104,4 @@ PROFILE VISITORS
 </div>
 
 
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8wq2z4nhdo7aforndd6o6o97u&unique={true|1|on|yes})
+
